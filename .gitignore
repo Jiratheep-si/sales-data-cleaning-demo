@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets (ห้ามอัปโหลดขึ้น GitHub)
+.env
+*.key
+credentials*.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
